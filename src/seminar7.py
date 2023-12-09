@@ -12,7 +12,7 @@ import boto3
 import dotenv
 import pandas as pd
 import tensorflow as tf
-
+##
 MAX_WORDS = 3000
 MAX_SEQ_LEN = 90
 DATA_URL_TRAIN = 'https://storage.yandexcloud.net/fa-bucket/spam.csv'
